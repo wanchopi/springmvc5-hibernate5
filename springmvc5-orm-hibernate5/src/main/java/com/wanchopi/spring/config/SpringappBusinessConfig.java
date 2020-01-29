@@ -17,7 +17,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 /**
  * 
- * @author Wanchopii
+ * @author Wanchopi
  *
  */
 @Configuration
